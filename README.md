@@ -1,7 +1,7 @@
 # my-website
 
-This will awesome websiteS
-
-Update readme o example branch
+This will awesome websites
 
 now editing on update-readme branch
+
+Update locally

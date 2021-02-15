@@ -2,6 +2,4 @@
 
 This will awesome websites
 
-now editing on update-readme branch
-
-Update locally
+update made on main github before rebase
